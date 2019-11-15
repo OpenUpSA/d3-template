@@ -1,14 +1,14 @@
 {
-  "name": "template viz",
+  "name": "template-viz",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "@babel/preset-env": "^7.7.1",
-    "babel": "^6.23.0",
     "d3-selection": "^1.4.0"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.7.1",
+    "babel": "^6.23.0",
     "@babel/core": "^7.7.2",
     "babel-loader": "^8.0.6",
     "webpack": "^4.41.2",
